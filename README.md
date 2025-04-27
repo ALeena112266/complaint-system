@@ -1,2 +1,2 @@
 # complaint-system
-This project contains code for solving complaints of students .The language used is php and framework is laravel
+The  project is a student-focused platform designed to efficiently address and resolve complaints. Built using PHP and the Laravel framework, this system provides a robust backend for managing complaints with a clean and organized architecture. Its primary goal is to streamline the complaint resolution process, ensuring that student grievances are handled promptly and effectively. With Laravel's powerful features, the system is scalable, secure, and easy to maintain, making it an ideal solution for educational institutions looking to enhance their complaint management processes.
